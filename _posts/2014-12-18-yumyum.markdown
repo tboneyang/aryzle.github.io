@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "YumYum! - a free food feed"
+date:   2014-12-18 19:24:30
+categories: web
+---
+YumYum! is a webapp built on Ruby on Rails with a feed displaying events on campus that have free food. It also has a listing of local restaurants with daily specials for students to save money.
+
+Check it out [here][yumyum]
+
+[yumyum]:      https://rpiyumyum.herokuapp.com
