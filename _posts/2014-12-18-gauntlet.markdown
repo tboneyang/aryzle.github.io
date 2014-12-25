@@ -5,3 +5,5 @@ date:   2014-12-18 19:30:30
 categories: web
 ---
 Gauntlet is a webapp built on Ruby on Rails and the Ziggeo api that allows anyone on the internet to create dares or submit videos of dares with hopes of being upvoted to infamy.
+
+Build for HackUpstate - *Winnner of ZIGGEO API award*

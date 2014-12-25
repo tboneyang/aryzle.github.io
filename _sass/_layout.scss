@@ -181,13 +181,24 @@
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
+    line-height: 1;
 }
 
 .post-link {
     display: block;
     font-size: 24px;
+    line-height: 1;
 }
 
+.home-left {
+  display: block;
+  width: 50%; 
+  float: left; }
+
+.home-right {
+  display: block;
+  width:50%;
+  float: right; }
 
 
 /**
