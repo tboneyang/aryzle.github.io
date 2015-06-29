@@ -2,7 +2,7 @@
 title: Arya Seghatoleslami
 email: seghaa@rpi.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Personal website for my projects, thoughts, and pictures.
+  Personal website for my projects.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://aryzle.github.io" # the base hostname & protocol for your site
 twitter_username: aryzle

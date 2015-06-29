@@ -3,22 +3,19 @@ layout: default
 ---
 
 <div class="home">
-  
-  <div class= "home-left">
-    <img src="http://www.gravatar.com/avatar/6f8c35b130a7f89061903ba475e9e67e?s=160"/>
-  </div>
 
-  <div class="home-right">
-    <h1 class="page-heading">Projects</h1>
+  <h1 class="page-heading">Projects</h1>
 
-    <ul class="post-list">
-      {% for post in site.posts %}
-        <li>
-          <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h2>
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
 </div>
