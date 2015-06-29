@@ -1,6 +1,6 @@
 # Site settings
 title: Arya Seghatoleslami
-email: seghaa@rpi.edu
+email: aseghatol@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Personal website for my projects.
 baseurl: "" # the subpath of your site, e.g. /blog/
