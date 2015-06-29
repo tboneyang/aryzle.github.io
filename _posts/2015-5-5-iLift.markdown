@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "iLift - easy to use weight-lifting app"
+date:   2015-5-5 19:30:30
+categories: iOS
+---
+iLift is an iOS app that let's you record your weight lifting numbers but doesn't get in the way. It has a list of workouts with different rep and set ranges but you can edit them all and reuse the template of each workout. It has a timer for proper resting and even gives you motivating messages, all the while showing you images of other body builders to motivate you. Everyone loves Arnold!
+
+![Arnold](/assets/arnold.jpg)
+
